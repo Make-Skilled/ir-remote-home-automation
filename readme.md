@@ -105,12 +105,6 @@ Install via Arduino Library Manager:
 
 ---
 
-## 📸 Demo (optional)
-
-*You can add a photo or YouTube video link here showing the project in action.*
-
----
-
 ## 🧠 Author
 
-Made by [Your Name]
+Made by [Madhu Parvathaneni]
